@@ -12,9 +12,11 @@ from https://codility.com/programmers/
 1. PermCheck.cs: https://codility.com/programmers/task/perm_check
 1. MissingInteger.cs: https://codility.com/programmers/task/missing_integer
 1. MaxCounters.cs: https://codility.com/programmers/task/max_counters
+1. FrogRiverOne.cs: https://codility.com/programmers/task/frog_river_one
 
 **Prefix Sums**
 1. PassingCars.cs: https://codility.com/programmers/task/passing_cars
+1. CountDiv --> beware of this as it's only applying a math formula
 
 **Sorting**
 1. Triangle.cs: https://codility.com/programmers/task/triangle
