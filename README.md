@@ -2,32 +2,41 @@
 
 from https://codility.com/programmers/
 
-### Exercises:
+### Exercises
 
 **Time Complexity Lesson**
+
+1. FrogJmp.cs: https://codility.com/programmers/task/frog_jmp/
 1. TapeEquilibrium.cs: https://codility.com/programmers/task/tape_equilibrium
 1. PermMissingElem.cs: https://codility.com/programmers/task/perm_missing_elem
 
 **Counting Elements**
+
+1. FrogRiverOne.cs: https://codility.com/programmers/task/frog_river_one
 1. PermCheck.cs: https://codility.com/programmers/task/perm_check
 1. MissingInteger.cs: https://codility.com/programmers/task/missing_integer
 1. MaxCounters.cs: https://codility.com/programmers/task/max_counters
-1. FrogRiverOne.cs: https://codility.com/programmers/task/frog_river_one
 
 **Prefix Sums**
+
 1. PassingCars.cs: https://codility.com/programmers/task/passing_cars
 1. CountDiv --> beware of this as it's only applying a math formula
 
 **Sorting**
+
 1. Triangle.cs: https://codility.com/programmers/task/triangle
+1. NumberOfDiscIntersections.cs: https://codility.com/programmers/task/number_of_disc_intersections
 
 **Sieve of Eratosthenes**
+
 1. CountSemiprimes.cs: https://codility.com/programmers/task/count_semiprimes
 
 **Stacks and Queues**
+
 1. Fish.cs: https://codility.com/programmers/task/fish
 
 **Others**
+
 1. BreakTheRope.cs: https://codility.com/programmers/task/break_the_rope
 1. Equi.cs: https://codility.com/programmers/task/equi
 1. EquiLeader.cs: https://codility.com/programmers/task/equi_leader
@@ -35,7 +44,6 @@ from https://codility.com/programmers/
 1. Ladder.cs (and a wrong version): https://codility.com/programmers/task/ladder
 1. MinMaxDivision.cs:
 1. MinPerimeterRectangle.cs:
-1. NumberOfDiscIntersections.cs: https://codility.com/programmers/task/number_of_disc_intersections
 1. Peaks.cs:
 1. TieRopes.cs:
 
