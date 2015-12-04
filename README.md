@@ -26,20 +26,30 @@ from https://codility.com/programmers/
 
 1. Triangle.cs: https://codility.com/programmers/task/triangle
 1. NumberOfDiscIntersections.cs: https://codility.com/programmers/task/number_of_disc_intersections
-
-**Sieve of Eratosthenes**
-
-1. CountSemiprimes.cs: https://codility.com/programmers/task/count_semiprimes
+1. MaxProductOfThree.cs: https://codility.com/programmers/task/max_product_of_three/
+1. Distinct.cs: https://codility.com/programmers/task/distinct/
 
 **Stacks and Queues**
 
 1. Fish.cs: https://codility.com/programmers/task/fish
 
+**Leader**
+
+1. EquiLeader.cs: https://codility.com/programmers/task/equi_leader
+1. Dominator.cs: Finding the leader in O(N)
+
+**Maximum Slice Problem**
+
+1. MaxDoubleSliceSum.cs: https://codility.com/programmers/task/max_double_slice_sum/
+
+**Sieve of Eratosthenes**
+
+1. CountSemiprimes.cs: https://codility.com/programmers/task/count_semiprimes
+
 **Others**
 
 1. BreakTheRope.cs: https://codility.com/programmers/task/break_the_rope
 1. Equi.cs: https://codility.com/programmers/task/equi
-1. EquiLeader.cs: https://codility.com/programmers/task/equi_leader
 1. Flags.cs: https://codility.com/programmers/task/flags
 1. Ladder.cs (and a wrong version): https://codility.com/programmers/task/ladder
 1. MinMaxDivision.cs:

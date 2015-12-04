@@ -4,7 +4,7 @@ public static int solution(int[] A)
     int size = 0;
     int leaderCount = 0;
 
-    // find the leader
+    // find the leader (this algorithm to find the leader in O(N) is obtained from the Leader lesson)
     for (int i = 0; i < A.Length; i++)
     {
         if (size == 0)
