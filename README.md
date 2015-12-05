@@ -42,7 +42,7 @@ from https://codility.com/programmers/
 
 1. MaxDoubleSliceSum.cs: https://codility.com/programmers/task/max_double_slice_sum/
 
-** Prime and Composite Numbers **
+**Prime and Composite Numbers **
 
 1. MinPerimeterRectangle.cs: https://codility.com/programmers/task/min_perimeter_rectangle/
 1. Flags.cs: https://codility.com/programmers/task/flags
@@ -52,15 +52,15 @@ from https://codility.com/programmers/
 
 1. CountSemiprimes.cs: https://codility.com/programmers/task/count_semiprimes
 
-** Fibonnacci numbers **
+**Fibonnacci numbers **
 
 1. Ladder.cs (and a wrong version): https://codility.com/programmers/task/ladder
 
-** Binary Search Algorithm **
+**Binary Search Algorithm **
 
 1. MinMaxDivision.cs: https://codility.com/programmers/task/min_max_division/
 
-** Greedy Algorithm **
+**Greedy Algorithm **
 
 1. TieRopes.cs: https://codility.com/programmers/task/tie_ropes/
 
@@ -68,4 +68,5 @@ from https://codility.com/programmers/
 
 1. BreakTheRope.cs: https://codility.com/programmers/task/break_the_rope
 1. Equi.cs: https://codility.com/programmers/task/equi
+1. BinaryGap.cs: https://codility.com/programmers/task/binary_gap/
 
