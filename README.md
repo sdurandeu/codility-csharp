@@ -24,10 +24,10 @@ from https://codility.com/programmers/
 
 **Sorting**
 
-1. Triangle.cs: https://codility.com/programmers/task/triangle
-1. NumberOfDiscIntersections.cs: https://codility.com/programmers/task/number_of_disc_intersections
 1. MaxProductOfThree.cs: https://codility.com/programmers/task/max_product_of_three/
 1. Distinct.cs: https://codility.com/programmers/task/distinct/
+1. Triangle.cs: https://codility.com/programmers/task/triangle
+1. NumberOfDiscIntersections.cs: https://codility.com/programmers/task/number_of_disc_intersections
 
 **Stacks and Queues**
 
@@ -42,7 +42,7 @@ from https://codility.com/programmers/
 
 1. MaxDoubleSliceSum.cs: https://codility.com/programmers/task/max_double_slice_sum/
 
-**Prime and Composite Numbers **
+**Prime and Composite Numbers**
 
 1. MinPerimeterRectangle.cs: https://codility.com/programmers/task/min_perimeter_rectangle/
 1. Flags.cs: https://codility.com/programmers/task/flags
@@ -52,21 +52,22 @@ from https://codility.com/programmers/
 
 1. CountSemiprimes.cs: https://codility.com/programmers/task/count_semiprimes
 
-**Fibonnacci numbers **
+**Fibonnacci numbers**
 
 1. Ladder.cs (and a wrong version): https://codility.com/programmers/task/ladder
 
-**Binary Search Algorithm **
+**Binary Search Algorithm**
 
 1. MinMaxDivision.cs: https://codility.com/programmers/task/min_max_division/
 
-**Greedy Algorithm **
+**Greedy Algorithm**
 
 1. TieRopes.cs: https://codility.com/programmers/task/tie_ropes/
 
-**Challenges**
+**Challenges/Future Training**
 
 1. BreakTheRope.cs: https://codility.com/programmers/task/break_the_rope
 1. Equi.cs: https://codility.com/programmers/task/equi
 1. BinaryGap.cs: https://codility.com/programmers/task/binary_gap/
+1. StrSymmetryPoint.cs: https://codility.com/programmers/task/str_symmetry_point/
 
