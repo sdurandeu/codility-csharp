@@ -4,7 +4,10 @@ from https://codility.com/programmers/
 
 ### Exercises
 
-**Time Complexity Lesson**
+**Iterations**
+1. BinaryGap.cs (two versions): https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+
+**Time Complexity**
 
 1. FrogJmp.cs: https://codility.com/programmers/task/frog_jmp/
 1. TapeEquilibrium.cs: https://codility.com/programmers/task/tape_equilibrium
