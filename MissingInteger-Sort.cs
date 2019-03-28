@@ -1,3 +1,4 @@
+// Find the smallest positive integer that does not occur in a given sequence.
 class Solution {
     public int solution(int[] A) {
         
